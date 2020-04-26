@@ -1,0 +1,80 @@
+TOTAL NUMBER OF THREADS: 1
+Solution on a single thread: 1.214325, time: 64.000000 ms
+Solution using Busy Waiting: 1.214325, time: 65.000000 ms
+Solution using Mutex: 1.214325, time: 63.000000 ms
+Solution using Semaphore: 1.214325, time: 64.000000 ms
+TOTAL NUMBER OF THREADS: 2
+Solution on a single thread: 1.214325, time: 63.000000 ms
+Solution using Busy Waiting: 1.214325, time: 33.000000 ms
+Solution using Mutex: 1.214325, time: 35.000000 ms
+Solution using Semaphore: 1.214325, time: 33.000000 ms
+TOTAL NUMBER OF THREADS: 3
+Solution on a single thread: 1.214325, time: 65.000000 ms
+Solution using Busy Waiting: 1.214325, time: 23.000000 ms
+Solution using Mutex: 1.214325, time: 31.000000 ms
+Solution using Semaphore: 1.214325, time: 24.000000 ms
+TOTAL NUMBER OF THREADS: 4
+Solution on a single thread: 1.214325, time: 64.000000 ms
+Solution using Busy Waiting: 1.214325, time: 20.000000 ms
+Solution using Mutex: 1.214325, time: 26.000000 ms
+Solution using Semaphore: 1.214325, time: 19.000000 ms
+TOTAL NUMBER OF THREADS: 5
+Solution on a single thread: 1.214325, time: 72.000000 ms
+Solution using Busy Waiting: 1.214325, time: 17.000000 ms
+Solution using Mutex: 1.214325, time: 23.000000 ms
+Solution using Semaphore: 1.214325, time: 18.000000 ms
+TOTAL NUMBER OF THREADS: 6
+Solution on a single thread: 1.214325, time: 67.000000 ms
+Solution using Busy Waiting: 1.214325, time: 18.000000 ms
+Solution using Mutex: 1.214325, time: 18.000000 ms
+Solution using Semaphore: 1.214325, time: 18.000000 ms
+TOTAL NUMBER OF THREADS: 7
+Solution on a single thread: 1.214325, time: 68.000000 ms
+Solution using Busy Waiting: 1.214325, time: 17.000000 ms
+Solution using Mutex: 1.214325, time: 16.000000 ms
+Solution using Semaphore: 1.214325, time: 16.000000 ms
+TOTAL NUMBER OF THREADS: 8
+Solution on a single thread: 1.214325, time: 67.000000 ms
+Solution using Busy Waiting: 1.214325, time: 16.000000 ms
+Solution using Mutex: 1.214325, time: 15.000000 ms
+Solution using Semaphore: 1.214325, time: 15.000000 ms
+TOTAL NUMBER OF THREADS: 9
+Solution on a single thread: 1.214325, time: 66.000000 ms
+Solution using Busy Waiting: 1.214325, time: 14.000000 ms
+Solution using Mutex: 1.214325, time: 14.000000 ms
+Solution using Semaphore: 1.214325, time: 13.000000 ms
+TOTAL NUMBER OF THREADS: 10
+Solution on a single thread: 1.214325, time: 68.000000 ms
+Solution using Busy Waiting: 1.214325, time: 12.000000 ms
+Solution using Mutex: 1.214325, time: 14.000000 ms
+Solution using Semaphore: 1.214325, time: 12.000000 ms
+TOTAL NUMBER OF THREADS: 11
+Solution on a single thread: 1.214325, time: 65.000000 ms
+Solution using Busy Waiting: 1.214325, time: 13.000000 ms
+Solution using Mutex: 1.214325, time: 11.000000 ms
+Solution using Semaphore: 1.214325, time: 12.000000 ms
+TOTAL NUMBER OF THREADS: 12
+Solution on a single thread: 1.214325, time: 67.000000 ms
+Solution using Busy Waiting: 1.214325, time: 13.000000 ms
+Solution using Mutex: 1.214325, time: 12.000000 ms
+Solution using Semaphore: 1.214325, time: 11.000000 ms
+TOTAL NUMBER OF THREADS: 13
+Solution on a single thread: 1.214325, time: 67.000000 ms
+Solution using Busy Waiting: 1.214325, time: 13.000000 ms
+Solution using Mutex: 1.214325, time: 13.000000 ms
+Solution using Semaphore: 1.214325, time: 11.000000 ms
+TOTAL NUMBER OF THREADS: 14
+Solution on a single thread: 1.214325, time: 67.000000 ms
+Solution using Busy Waiting: 1.214325, time: 12.000000 ms
+Solution using Mutex: 1.214325, time: 13.000000 ms
+Solution using Semaphore: 1.214325, time: 11.000000 ms
+TOTAL NUMBER OF THREADS: 15
+Solution on a single thread: 1.214325, time: 67.000000 ms
+Solution using Busy Waiting: 1.214325, time: 13.000000 ms
+Solution using Mutex: 1.214325, time: 13.000000 ms
+Solution using Semaphore: 1.214325, time: 11.000000 ms
+TOTAL NUMBER OF THREADS: 16
+Solution on a single thread: 1.214325, time: 68.000000 ms
+Solution using Busy Waiting: 1.214325, time: 12.000000 ms
+Solution using Mutex: 1.214325, time: 13.000000 ms
+Solution using Semaphore: 1.214325, time: 12.000000 ms
