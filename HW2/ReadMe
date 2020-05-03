@@ -1,0 +1,2 @@
+Parallelized versions of Pi calculation and MatMul are in files with "_P". Since then I implemented sequential algorithm in same files as parallel versions.
+As for speed up - mostly I used 2 threads and time is twice smaller (as it was expected).
