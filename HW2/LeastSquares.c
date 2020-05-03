@@ -113,8 +113,8 @@ void grad_descent_sequential(double ** matrix, double lr, int steps, size_t N, d
 		
 		for (int i = 0; i < N; i++)
 		{
-			grad_a += -2*(matrix[i][1] - param_[0]*matrix[i][0] - param_[1]) * matrix[i][0];
-			grad_b += -2*(matrix[i][1] - param_[0]*matrix[i][0] - param_[1]);
+			grad_a += -(matrix[i][1] - param_[0]*matrix[i][0] - param_[1]) * matrix[i][0] * 2;
+			grad_b += -(matrix[i][1] - param_[0]*matrix[i][0] - param_[1]) * 2;
 		}
 		
 		param_[0] -= grad_a * lr;
