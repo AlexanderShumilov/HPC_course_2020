@@ -3,4 +3,4 @@
 2. To obtain result and see the picture please compile it in a way "./name_of programm rule(int<256) width(basically size, I recommend smth like 32)".
 Example: ./cell 184 32
 Predefined rules are 110, 184, 43 - if you will use this combinations you will get particular pictures with particular initial conditions, otherwise everything will be randomized! Nevertheless you will see all conditions after programm will be run.
-I didn't implement "проверка на дурачка", so you will get bad errors if input will be incorrect (this is purely technical and not the global aim of task). 
+I didn't implement "проверка на дурачка" (term for testing program with obviously wrong arguments), so you will get bad errors if input will be incorrect (this is purely technical and not the global aim of task). 
