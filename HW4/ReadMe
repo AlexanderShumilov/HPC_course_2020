@@ -1,4 +1,4 @@
 Files for tasks 1-3 are pretty self-explainatory, no extraordinary rules for execution - just compile and run. Visualisation in attached notebook.
 All programs have hard-coded dimensions of kernels, stencils, blocks, grid, etc.
-As for task 4-5? I just have not enough time for implementation (I started recently Monte-Carlo integral ad for RNG tried to use CuRand and waisted some time to understand it. But it turned out that lcurand-8.0 library is not supported on Zhores or at least I ded not manage to run it properly using flag -lcurand).
+As for task 4-5, I just have not enough time for implementation (I started recently Monte-Carlo integral ad for RNG tried to use CuRand and waisted some time to understand it. But it turned out that lcurand-8.0 library is not supported on Zhores or at least I ded not manage to run it properly using flag -lcurand).
 Also I am not sure that "filter" programs are most relevant (I had a bunch of different versions with similar names and copied here most relevant, but it may happen that somewhere is unfortunate misprint - I stil have working version somewhere... But I really hope that everything is alright!)
